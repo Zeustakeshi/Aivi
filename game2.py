@@ -54,3 +54,4 @@ clock.schedule(hetgio,40.0)
 place_coin
         
 pgzrun.go()
+hellllo
